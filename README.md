@@ -1,6 +1,6 @@
 # Port Scanner
 
-A simple and beginner-friendly *Port Scanner* built using Python's socket library. This project is designed for learning *Networking, **Cybersecurity, and **Socket Programming* concepts.
+A simple and beginner-friendly *Port Scanner* built using Python's socket library. This project is designed for learning *Networking*, *Cybersecurity*, and *Socket Programming* concepts.
 
 ---
 
@@ -59,18 +59,6 @@ Scan completed in: 0:00:10.123456
 
 * Only scan devices you *own* or have *explicit permission* to scan.
 * This tool is for *educational purposes only*.
-
----
-
-## 🏡 Project Structure
-
-
-port-scanner/
-│
-├── port_scanner.py   # Main Python script
-├── README.md         # Project Documentation
-└── .gitignore        # Ignored files/folders
-
 
 ---
 
