@@ -62,6 +62,19 @@ Scan completed in: 0:00:10.123456
 
 ---
 
+## 🏡 Project Structure
+
+
+port-scanner/
+│
+├── port_scanner.py   # Main Python script
+├── README.md         # Project Documentation
+└── .gitignore        # Ignored files/folders
+
+
+
+---
+
 ## 🖊 Future Enhancements
 
 * Multithreaded Scanning (for faster scans)
